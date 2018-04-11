@@ -1,1 +1,1 @@
-"objects": {"car", "human"}
+{"objects": ["car", "human"]}
